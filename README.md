@@ -1,7 +1,14 @@
 # Demucs Music Source Separation
 
-![tests badge](https://github.com/facebookresearch/demucs/workflows/tests/badge.svg)
-![linter badge](https://github.com/facebookresearch/demucs/workflows/linter/badge.svg)
+## Info 
+
+This repository is fork of [demux](https://github.com/facebookresearch/demucs). The only reason for it to have independent module installed from pip for demucs v3 version.
+
+```
+pip install demucs3
+```
+
+## Data
 
 This is the 3rd release of Demucs (v3), featuring hybrid source separation.
 **For the waveform only Demucs (v2):** [Go this commit][demucs_v2].
